@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , React **
+- 💬 Ask me about **Django, React & AWS **
 
 - 📫 How to reach me **eng.angelawilliam@gmail.com**
 
