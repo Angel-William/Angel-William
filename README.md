@@ -1,6 +1,6 @@
 # Hi 👋, I'm Angel William
 
-## Software Engineer| Data Analyst| AI & Machine Learning Enthusiast
+## Software Engineer / Data Analyst
 
 ![Coding Gif](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
