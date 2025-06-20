@@ -1,4 +1,4 @@
-# Hi 👋, I'm Angel William
+# Hi 👋, I'm Angel 
 
 ## Software / Data Engineer 
 
